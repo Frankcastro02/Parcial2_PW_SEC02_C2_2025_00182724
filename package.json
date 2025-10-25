@@ -1,0 +1,24 @@
+{
+  "name": "parcial2_pw_sec02_c2_2025_00182724",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankcastro02/Parcial2_PW_SEC02_C2_2025_00182724.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frankcastro02/Parcial2_PW_SEC02_C2_2025_00182724/issues"
+  },
+  "homepage": "https://github.com/Frankcastro02/Parcial2_PW_SEC02_C2_2025_00182724#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
